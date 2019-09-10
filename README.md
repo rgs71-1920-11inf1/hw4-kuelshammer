@@ -15,7 +15,7 @@ Gegeben ist das folgende Struktogramm:
 - Laden Sie diese Datei in dieses Github Repo (Oben rechts: * Upload files*)
 - Binden Sie diese Datei hier ein durch den Befehl `![MeinStruktogramm](p1_pap.png)`. Dafür müssen Sie diese Markdowndatei editieren (Stift oben rechts)
 
-![P1 Struktogram](p1_struct.png)
+![P1 Struktogram](p1_pap.png)
 
 - Übersetzen Sie das Struktogramm in Python-Code. Schreiben Sie die Lösung in die Datei `p1.py`, die sie entweder hier neu erstellen oder mit einem Editor z.B. CS50 Sandbox bzw. CS50 IDE erstellen und dann entsprechend hochladen.
 
@@ -41,6 +41,9 @@ Gegeben ist der folgende Programmablaufplan:
 - Exportieren Sie das Bild und speichern sie dieses unter dem Namen `p2_struct.png`.
 - Laden Sie diese Datei in dieses Github Repo.
 - Binden Sie diese Datei hier ein durch den Befehl `![MeinStruktogramm](p2_struct.png)`. Dafür müssen Sie diese Markdowndatei editieren (Stift oben rechts)
+
+![P2 Struct](p2_struct.png)
+
 - Übersetzen Sie den Programmanlaufplan in Python-Code. Schreiben Sie die Lösung in die Datei `p2.py`, die sie entweder hier neu erstellen oder mit einem Editor z.B. CS50 Sandbox bzw. CS50 IDE erstellen und dann entsprechend hochladen.
 
 ```python
