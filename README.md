@@ -19,7 +19,7 @@ Gegeben ist das folgende Struktogramm:
 
 - Übersetzen Sie das Struktogramm in Python-Code. Schreiben Sie die Lösung in die Datei `p1.py`, die sie entweder hier neu erstellen oder mit einem Editor z.B. CS50 Sandbox bzw. CS50 IDE erstellen und dann entsprechend hochladen.
 
-```python
+```java
 a = 17
 b = 3
 
