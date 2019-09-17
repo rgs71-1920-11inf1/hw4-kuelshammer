@@ -36,7 +36,7 @@ Gegeben ist der folgende Programmablaufplan:
 ![P2](p2.png)
 
 - Geben sie an, welche Zahlen dieses Programm ausgeben würde: 
-  **Ausgabe: 1, 3, 7**
+  **Ausgabe: 1, 2, 5, 6**
 - Erstellen Sie ein Struktogramm mit dem [Structorizer](https://structorizer.fisch.lu)
 - Exportieren Sie das Bild und speichern sie dieses unter dem Namen `p2_struct.png`.
 - Laden Sie diese Datei in dieses Github Repo.
